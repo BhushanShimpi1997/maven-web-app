@@ -2,13 +2,9 @@
 <body>
 <h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Bhushan IT Training Schedules</a>
-  
-  <h2> Call Us : + 91 - 73 87 13 68 71 / 91 72 11 29 20</h2>
-  
-  <h3> Ofc Location : Thalner, Maharashtra </h3>
-  
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+<p> This is india's No.1 training institute which provides us good learning and oppurtunity to learn it is biggest institute in hyderabad</p>
+<p> did you want to join this institute pay fee like 5000 to 10000 to join the courses</p>
 
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Bhushan IT Training Schedules</a>
 </body>
 </html>
